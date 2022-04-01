@@ -1,0 +1,43 @@
+body {
+    background-color: #0b0b0b;
+    font-family: Roboto !important;
+}
+
+/* container Navbar Store */
+
+.navbarStore {
+    align-items: center;
+    padding: 0 50px !important;
+    height: 110px;
+    display: flex;
+  }
+  
+  .navLeft img {
+    width: 70px;
+    height: 70px;
+  }
+  
+  .navLeft {
+    flex: 1;
+  }
+  
+  .navRight {
+    flex: 1;
+    padding: 0;
+    text-align: end;
+  }
+  
+  .navRight > ul {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .navRight li {
+    display: inline;
+    color: white;
+    text-decoration: none;
+    color: white;
+    margin-left: 23px;
+    font-size: 18px;
+    font-family: roboto;
+  }

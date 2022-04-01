@@ -1,0 +1,24 @@
+.form {
+    margin: 16px 20% 0;
+}
+
+.form-group {
+    margin-bottom: 16px;
+}
+
+.form-label {
+    margin-bottom: 8px;
+    display: inline-block;
+}
+
+.form-input {
+    display: block;
+    width: 350px 50px;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #555555;
+    background-color: #BCBCBC;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+}
